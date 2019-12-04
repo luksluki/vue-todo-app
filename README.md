@@ -1,7 +1,6 @@
 # todo-app
 Design Todo Application made with Vue.js and Vuetify
 
-Learn from The Net Ninja Channel
 
 ## Project setup
 ```
